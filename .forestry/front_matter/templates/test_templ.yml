@@ -24,4 +24,5 @@ fields:
       format: markdown
   label: Content
 pages:
+- content/hello.md
 - content/posts/testing.md
